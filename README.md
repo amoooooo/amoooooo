@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Kotlin**
 
-- 👯 Collaborating on [Fundamental Forces](https://github.com/OrtusMC/FundamentalForces)
+- ~~👯 Collaborating on [Fundamental Forces](https://github.com/OrtusMC/FundamentalForces)~~ Temporarily on hold.
 
 - 💬 Ask me about **KubeJS, CraftTweaker, MC Rendering**
 
