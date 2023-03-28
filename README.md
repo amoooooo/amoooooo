@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Amo 💫</h1>
-<h3 align="center">A passionate nonbinary Minecraft modder, software developer & overall nerd</h3>
+<h3 align="center">A passionate nonbinary Minecraft modder, software developer, worldbuilder & overall nerd</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amoooooo&label=Profile%20views&color=0e75b6&style=flat" alt="amoooooo" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Alembic](https://github.com/FoundryMC/Alembic)
 
-- 👯 Collaborating on [Create: Aeronautics](https://www.youtube.com/channel/UCveag8aCHdlOke4XorM5t2g)
+- 👯 Collaborating on [Create: Aeronautics](https://www.youtube.com/channel/UCveag8aCHdlOke4XorM5t2g), [FoundryMC](https://github.com/FoundryMC/)
 
 - 🧵Languages: **Java, Kotlin, JS**
 
