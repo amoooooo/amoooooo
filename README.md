@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Alembic](https://github.com/FoundryMC/Alembic)
 
-- 👯 Collaborating on [Create: Aeronautics](https://www.youtube.com/channel/UCveag8aCHdlOke4XorM5t2g), [FoundryMC](https://github.com/FoundryMC/)
+- 👯 Collaborating on [Create: Aeronautics](https://www.youtube.com/channel/UCveag8aCHdlOke4XorM5t2g), [FoundryMC](https://github.com/FoundryMC/), [Cobblemon](https://gitlab.com/cable-mc/cobblemon/-/tree/main)
 
 - 🧵Current Languages: **Java, Kotlin, JS**
 
