@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/amooninthesky" target="blank"><img src="https://img.shields.io/twitter/follow/amooninthesky?logo=twitter&style=for-the-badge" alt="amooninthesky" /></a> </p>
 
-- 🔭 I’m currently working on [Alembic](https://github.com/FoundryMC/Alembic)
+- 🔭 I’m currently working on [Alembic](https://github.com/FoundryMC/Alembic), [Veil](https://github.com/FoundryMC/Veil)
 
 - 👯 Collaborating on [Create: Aeronautics](https://www.youtube.com/channel/UCveag8aCHdlOke4XorM5t2g), [FoundryMC](https://github.com/FoundryMC/), [Cobblemon](https://gitlab.com/cable-mc/cobblemon/-/tree/main)
 
@@ -13,4 +13,4 @@
 
 - 🌠 Past Languages: **HLSL, GLSL, Unity**
 
-- ✨Reach me: **amo#0777**
+- ✨Reach me: **am.o**
